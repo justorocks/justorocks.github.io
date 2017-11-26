@@ -22,7 +22,7 @@ h1 {
 .feature {
   border-style: none;
   max-width: 415px;
-  height: 220px;
+  max-height: 230px;
   text-align: center;
 }
 .feature .content {
